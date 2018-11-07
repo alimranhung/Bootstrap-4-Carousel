@@ -1,5 +1,5 @@
 ## Bootstrap-4-Carousel
-## Bootstrap-4 carousel html View code { Click raw }
+## Bootstrap-4 carousel html View code { Click Raw }
 <section id="showcase" class="bg-dark">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
