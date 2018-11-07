@@ -1,7 +1,7 @@
 # Bootstrap-4-Carousel
-``#Bootstrap-4 carousel html 
+``Bootstrap-4 carousel html 
 ``
-``<section id="showcase" class="bg-dark">
+##<section id="showcase" class="bg-dark">
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-slide-to="0" data-target="#myCarousel" class="active"></li>
@@ -57,7 +57,7 @@
             </a>
         </div>
     </section>
-   ``
+   ##
   ``Bootstrap-4 Carousel css``
     .carousel-item{
   height:500px;
