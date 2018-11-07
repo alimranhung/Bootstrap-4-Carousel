@@ -58,7 +58,7 @@
         </div>
     </section>
   
-  ``##Bootstrap-4 Carousel css``
+  ##Bootstrap-4 Carousel css
     .carousel-item{
   height:500px;
 }
